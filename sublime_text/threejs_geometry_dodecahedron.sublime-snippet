@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+var geometry = new THREE.DodecahedronGeometry(${1:radius}, ${2:detail});$3
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tjs_geometry_dodecahedron</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

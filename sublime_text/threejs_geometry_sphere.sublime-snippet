@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+var geometry = new THREE.SphereGeometry(${1:radius}, ${2:widthSegments},${3:widthSegments});$4
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tjs_geometry_sphere</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

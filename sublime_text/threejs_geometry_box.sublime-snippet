@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+var geometry = new THREE.BoxGeometry(${1:width},${2:height},${3:depth});$4
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tjs_geometry_box</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+var geometry = new THREE.PlaneGeometry(${1:width}, ${2:height},${3:widthSegments},${4:widthSegments});$5
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tjs_geometry_plane</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

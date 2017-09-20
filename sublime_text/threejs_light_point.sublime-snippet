@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+// Point Light
+var pointLight = new THREE.PointLight( "#ff0000", 1, 100 );
+pointLight.position.y = 50;
+scene.add(pointLight);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tjs_lights_pointLight</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

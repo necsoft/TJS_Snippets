@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+var geometry = new THREE.RingGeometry(${1:innerRadius}, ${2:outerRadius},${3:thetaSegments});$4
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tjs_geometry_ring</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+//Ambient Light
+var ambientLight = new THREE.AmbientLight("#404040");
+scene.add(ambientLight);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tjs_lights_ambientLight</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>
